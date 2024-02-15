@@ -20,12 +20,12 @@ public class WeatherForecastController : ControllerBase
         "Scorching"
     };
 
-    private readonly ILogger<WeatherForecastController> logger;
+    private readonly ILogger<WeatherForecastController> _logger;
 
     public WeatherForecastController(ILogger<WeatherForecastController> logger)
     {
-        this.logger = logger;
-        this.logger.LogInformation("WeatherForecastController created");
+        this._logger = logger;
+        this._logger.LogInformation("WeatherForecastController created");
     }
 
     [HttpGet(Name = "GetWeatherForecast")]
