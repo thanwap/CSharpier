@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ndD+ej9PW9wrDy2JvkeSjY+QV+zYAf95LAsjuCgMJztAh1vWPKREL6lzHI2YDQgvXKU+87DPaQjji9MzYVgybQ==",
+  "success": true,
+  "projectFilePath": "/Users/thanwap/Learning/dotnet/CSharpier/CSharpier.csproj",
+  "expectedPackageFiles": [
+    "/Users/thanwap/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/thanwap/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/thanwap/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/thanwap/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/thanwap/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/thanwap/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
